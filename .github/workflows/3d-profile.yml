@@ -4,6 +4,8 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main", "master"]
 
 jobs:
   build:
@@ -17,20 +19,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "theme": {
-                "color": {
-                  "background": "#0d1117",
-                  "text": "#c9d1d9",
-                  "level0": "#161b22",
-                  "level1": "#0a3069",
-                  "level2": "#0969da",
-                  "level3": "#54aeff",
-                  "level4": "#b6e3ff"
-                }
-              }
-            }
       - name: Commit & Push
         run: |
           git config user.name github-actions
