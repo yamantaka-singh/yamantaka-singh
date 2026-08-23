@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=c9d1d9&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=58a6ff&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,9 +22,9 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/yamantaka-singh?label=Follow&style=social)](https://github.com/yamantaka-singh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/yamantakasingh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1e1e1e?style=for-the-badge&logo=hackerrank&logoColor=ffffff)](https://hackerrank.com/profile/25bai70030)
-[![Email](https://img.shields.io/badge/Email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:mrityunjaysinght2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yamantakasingh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1e1e1e?style=for-the-badge&logo=hackerrank&logoColor=58a6ff)](https://hackerrank.com/profile/25bai70030)
+[![Email](https://img.shields.io/badge/Email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mrityunjaysinght2005@gmail.com)
 
 </div>
 
@@ -93,25 +93,25 @@ philosophy:
   <tr>
     <td align="center" width="20%"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=c%2B%2B&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=flat-square&logo=typescript&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/C-1e1e1e?style=flat-square&logo=c&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/SQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/GLSL-1e1e1e?style=flat-square&logo=opengl&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-1e1e1e?style=flat-square&logo=html5&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=flat-square&logo=typescript&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/C-1e1e1e?style=flat-square&logo=c&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/SQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/GLSL-1e1e1e?style=flat-square&logo=opengl&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-1e1e1e?style=flat-square&logo=html5&logoColor=58a6ff" />
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"><b>ML & Distillation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/NumPy-1e1e1e?style=flat-square&logo=numpy&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/NumPy-1e1e1e?style=flat-square&logo=numpy&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=58a6ff" />
       <img src="https://img.shields.io/badge/Knowledge_Distillation-1e1e1e?style=flat-square" />
       <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-1e1e1e?style=flat-square" />
       <img src="https://img.shields.io/badge/PageRank-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-1e1e1e?style=flat-square&logo=google-cloud&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-1e1e1e?style=flat-square&logo=google-cloud&logoColor=58a6ff" />
     </td>
   </tr>
   <tr>
@@ -137,10 +137,10 @@ philosophy:
   <tr>
     <td align="center" width="20%"><b>Infra & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-1e1e1e?style=flat-square&logo=google-cloud&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/WebGL-1e1e1e?style=flat-square&logo=webgl&logoColor=ffffff" />
-      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-1e1e1e?style=flat-square&logo=github&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-1e1e1e?style=flat-square&logo=google-cloud&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/WebGL-1e1e1e?style=flat-square&logo=webgl&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-1e1e1e?style=flat-square&logo=github&logoColor=58a6ff" />
       <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-1e1e1e?style=flat-square" />
     </td>
   </tr>
@@ -151,14 +151,14 @@ philosophy:
 ### 📊 Developer Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&hide_border=true&bg_color=2E2910&title_color=c9d1d9&text_color=c9d1d9&icon_color=EB7D00" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&hide_border=true&bg_color=2E2910&title_color=c9d1d9&text_color=c9d1d9&card_width=450" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&card_width=450" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&hide_border=true&theme=github-dark" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="97%" />
 </div>
 
 <br/>

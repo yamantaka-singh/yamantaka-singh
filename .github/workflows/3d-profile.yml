@@ -22,10 +22,10 @@ jobs:
                   "background": "#0d1117",
                   "text": "#c9d1d9",
                   "level0": "#161b22",
-                  "level1": "#30363d",
-                  "level2": "#484f58",
-                  "level3": "#8b949e",
-                  "level4": "#ffffff"
+                  "level1": "#0a3069",
+                  "level2": "#0969da",
+                  "level3": "#54aeff",
+                  "level4": "#b6e3ff"
                 }
               }
             }
