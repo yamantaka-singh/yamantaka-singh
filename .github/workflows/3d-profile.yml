@@ -19,13 +19,13 @@ jobs:
             {
               "theme": {
                 "color": {
-                  "background": "#2E2910",
-                  "text": "#EBE3A7",
-                  "level0": "#2C5745",
-                  "level1": "#4B6B40",
-                  "level2": "#768630",
-                  "level3": "#B0AA14",
-                  "level4": "#EB7D00"
+                  "background": "#0d1117",
+                  "text": "#c9d1d9",
+                  "level0": "#161b22",
+                  "level1": "#30363d",
+                  "level2": "#484f58",
+                  "level3": "#8b949e",
+                  "level4": "#ffffff"
                 }
               }
             }
