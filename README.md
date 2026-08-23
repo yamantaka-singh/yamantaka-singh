@@ -1,19 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,100:00EA64&height=200&section=header&text=Mrityunjay%20Singh&fontSize=56&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Behavioural%20Modelling%20%E2%80%A2%20Causal%20Design&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="assets/hero_banner.jpg" width="100%" alt="3D Hero Banner" />
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=EBE3A7&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
 </a>
 
 <br/>
 
+<div align="center">
+  <h3>🏙️ 3D Contribution Landscape</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamantaka-singh/yamantaka-singh/main/profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamantaka-singh/yamantaka-singh/main/profile-3d-contrib/profile-night-view.svg">
+    <img alt="3D Github Contribution Graph" src="https://raw.githubusercontent.com/yamantaka-singh/yamantaka-singh/main/profile-3d-contrib/profile-night-view.svg">
+  </picture>
+</div>
+
+<br/>
+
 [![GitHub followers](https://img.shields.io/github/followers/yamantaka-singh?label=Follow&style=social)](https://github.com/yamantaka-singh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yamantakasingh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/profile/25bai70030)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrityunjaysinght2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2C5745?style=for-the-badge&logo=linkedin&logoColor=EB7D00)](https://linkedin.com/in/yamantakasingh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2C5745?style=for-the-badge&logo=hackerrank&logoColor=EB7D00)](https://hackerrank.com/profile/25bai70030)
+[![Email](https://img.shields.io/badge/Email-2C5745?style=for-the-badge&logo=gmail&logoColor=EB7D00)](mailto:mrityunjaysinght2005@gmail.com)
 
 </div>
 
@@ -82,55 +93,55 @@ philosophy:
   <tr>
     <td align="center" width="20%"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-2C5745?style=flat-square&logo=python&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/C++-2C5745?style=flat-square&logo=c%2B%2B&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/TypeScript-2C5745?style=flat-square&logo=typescript&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/C-2C5745?style=flat-square&logo=c&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/SQL-2C5745?style=flat-square&logo=postgresql&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/GLSL-2C5745?style=flat-square&logo=opengl&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-2C5745?style=flat-square&logo=html5&logoColor=EB7D00" />
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"><b>ML & Distillation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Knowledge_Distillation-8A2BE2?style=flat-square" />
-      <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-20B2AA?style=flat-square" />
-      <img src="https://img.shields.io/badge/PageRank-FF6B6B?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-2C5745?style=flat-square&logo=pytorch&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/NumPy-2C5745?style=flat-square&logo=numpy&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/Knowledge_Distillation-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/PageRank-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-2C5745?style=flat-square&logo=google-cloud&logoColor=EB7D00" />
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"><b>LLM & Agent Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Structured_Outputs-4CAF50?style=flat-square" />
-      <img src="https://img.shields.io/badge/Rubric_Design-FF9800?style=flat-square" />
-      <img src="https://img.shields.io/badge/Data_Leakage_Guards-E91E63?style=flat-square" />
+      <img src="https://img.shields.io/badge/Structured_Outputs-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Rubric_Design-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data_Leakage_Guards-2C5745?style=flat-square" />
       <img src="https://img.shields.io/badge/Teacher--Student_Distillation-673AB7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Agentic_CI%2FCD-009688?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agentic_CI%2FCD-2C5745?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"><b>Causal & Quantitative</b></td>
     <td>
-      <img src="https://img.shields.io/badge/RCT_Protocol_Design-1E88E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/Statistical_Analysis_Planning-3949AB?style=flat-square" />
-      <img src="https://img.shields.io/badge/Power_Analysis-5E35B1?style=flat-square" />
+      <img src="https://img.shields.io/badge/RCT_Protocol_Design-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Statistical_Analysis_Planning-2C5745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Power_Analysis-2C5745?style=flat-square" />
       <img src="https://img.shields.io/badge/Difference--in--Differences-8E24AA?style=flat-square" />
-      <img src="https://img.shields.io/badge/Propensity_Scoring-D81B60?style=flat-square" />
+      <img src="https://img.shields.io/badge/Propensity_Scoring-2C5745?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td align="center" width="20%"><b>Infra & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-00ACC1?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-2C5745?style=flat-square&logo=postgresql&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-2C5745?style=flat-square&logo=google-cloud&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/WebGL-2C5745?style=flat-square&logo=webgl&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-2C5745?style=flat-square&logo=github&logoColor=EB7D00" />
+      <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-2C5745?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -140,14 +151,14 @@ philosophy:
 ### 📊 Developer Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&hide_border=true&bg_color=2E2910&title_color=EBE3A7&text_color=EBE3A7&icon_color=EB7D00" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&hide_border=true&bg_color=2E2910&title_color=EBE3A7&text_color=EBE3A7&card_width=450" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&theme=tokyonight&hide_border=true&background=0d1117" width="97%" />
+  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&hide_border=true&background=2E2910&stroke=EB7D00&ring=EB7D00&fire=EB7D00&currStreakNum=EBE3A7&sideNums=EBE3A7&currStreakLabel=EBE3A7&sideLabels=EBE3A7&dates=EBE3A7" width="97%" />
 </div>
 
 <br/>
