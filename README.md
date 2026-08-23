@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero_banner.png" width="100%" alt="3D Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=200&section=header&text=Mrityunjay%20Singh&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
