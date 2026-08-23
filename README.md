@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=220&section=header&text=Mrityunjay%20Singh&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=34&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=200&section=header&text=Mrityunjay%20Singh&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -146,22 +146,7 @@ philosophy:
   </tr>
 </table>
 
----
 
-### 📊 Developer Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&icon_color=58a6ff" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&card_width=450" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="97%" />
-</div>
-
-<br/>
 
 <div align="center">
   <h3>🐍 Contribution Graph Simulation</h3>
