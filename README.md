@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,100:00EA64&height=200&section=header&text=Mrityunjay%20Singh&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,100:00EA64&height=200&section=header&text=Mrityunjay%20Singh&fontSize=56&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20Engineer%20%E2%80%A2%20Behavioural%20Modelling%20%E2%80%A2%20Causal%20Design&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=3FB950&center=true&vCenter=true&width=600&height=50&lines=Verification+over+generation.;Tests+as+the+specification.;Spec-first,+agent-executed." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,25 +19,44 @@
 
 ---
 
+### 👤 Executive Summary
+
+> **Second-year CS (AI & ML) Honours student at Chandigarh University.** First-named inventor on a filed provisional patent for real-time cognitive state estimation from behavioural telemetry, and lead author of the systems paper behind it. Built and shipped GitGlobe: an 87,000+ repository semantic search system powered by an LLM distilled into a from-scratch NumPy gradient-boosted regressor.
+
+---
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 The Scientist
-*Real-Time Cognitive State Estimation & Environmental Modulation*
-- **Provisional Patent (First Inventor)**: App. No. IN202611015895
-- **Architecture**: Hardware-agnostic "cognitive digital twin" using multi-modal sensor fusion.
-- **Intervention**: Consent-bounded, fail-safe environmental modulation with pre-authorised thresholds.
-- **Lead Author**: *Cognitive Architecture and Stochastic Algorithmic Reinforcement* (Systems Model of Adolescent Vulnerability).
+### 🔬 Research & Patents
+
+- 📜 **Provisional Patent (First Inventor)**
+  - **Title**: *Real-Time Cognitive State Estimation & Environmental Modulation*
+  - **Filing**: Indian Patent Office · App. No. `IN202611015895` (Project S.A.G.E.)
+  - **Core Innovation**: Hardware-agnostic cognitive digital twin via multi-modal sensor fusion & closed-loop telemetry variances (e.g. keystroke flight-time deviation).
+  - **Governance**: Consent-bounded, fail-safe intervention protocols with pre-authorized thresholds.
+
+- 📝 **Lead Author — Systems Paper**
+  - **Title**: *"Cognitive Architecture and Stochastic Algorithmic Reinforcement"*
+  - **Scope**: Modelled how variable-ratio reinforcement schedules in recommender engines shift users to fast associative processing; proposed fiduciary duty-of-care deterministic pre-commitment remedies.
+
+- 🧪 **Causal Design & RCT**
+  - Authored a multicentre randomised controlled trial protocol ($N = 240$, 1:1 stratified randomisation, assessor-blinded) with statistical power justification, ITT/PP population controls, and interim analysis.
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 The Engineer
-*Building robust AI systems and tooling.*
-- **[GitGlobe](https://github.com/yamantaka-singh/gitglobe)**: Semantic map of the open-source ecosystem (~95K repos). Distilled **NVIDIA Nemotron 550B** into a from-scratch NumPy gradient-boosted regressor. 
-- **Systems Engineering**: Custom binary tile format (12 bytes/point, 3.2MB for 87K nodes). UMAP projection to 3D and spherical k-means.
-- **Project S.A.G.E**: Behavioural telemetry → latent cognitive state.
+### 💻 Shipped Systems & Engineering
+
+- 🌐 **[GitGlobe](https://github.com/yamantaka-singh/gitglobe) — Semantic Map of Open-Source**
+  - **Model Distillation with Popularity Blindfold**: NVIDIA Nemotron 550B (via NIM) rates repos across a 6-dimension rubric; distilled to 95K+ rows using a from-scratch NumPy gradient-boosted regressor (histogram splitting, level-wise trees). Star/fork counts stripped to prevent popularity bias.
+  - **Strict Validation Bar**: Only stored dimensions beating mean-predictor by $> \text{baseline}/\sqrt{2n}$ ($R^2 = 0.21\text{--}0.44$).
+  - **Systems Engineering**: Custom 12-byte/point binary tile format (3.2 MB for 87,227 nodes), 234K-entry CSR graph with PageRank, UMAP 3-D projection, spherical k-means, and GPU-picked WebGL renderer.
+  - **Test Rigor**: 446 tests across 19 suites enforcing NASA Power-of-10 rules.
+
+- 🧠 **Project S.A.G.E. (Ongoing)**
+  - Passive telemetry instruments inferring latent executive-function states (time-to-click vs word count, scroll velocity, cursor trajectory) keyed to normative reading speeds.
 
 </td>
 </tr>
@@ -45,22 +64,96 @@
 
 ---
 
-### 📊 Deep Analytics
+### ⚙️ How I Build (Engineering Discipline)
+
+```yaml
+philosophy:
+  verification_over_generation: "Agent & model output is assumed wrong until measured against held-out ground truth."
+  tests_as_specification: "Every guard is tested for its ability to fail; checks that cannot fail are decoration."
+  spec_first_execution: "Architecture decision records (ADRs) and formal plans precede code execution."
+  research_rigor: "Literature synthesis with load-bearing claims verified against primary empirical sources."
+```
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table>
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>ML & Distillation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Knowledge_Distillation-8A2BE2?style=flat-square" />
+      <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-20B2AA?style=flat-square" />
+      <img src="https://img.shields.io/badge/PageRank-FF6B6B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>LLM & Agent Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Structured_Outputs-4CAF50?style=flat-square" />
+      <img src="https://img.shields.io/badge/Rubric_Design-FF9800?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data_Leakage_Guards-E91E63?style=flat-square" />
+      <img src="https://img.shields.io/badge/Teacher--Student_Distillation-673AB7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agentic_CI%2FCD-009688?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Causal & Quantitative</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RCT_Protocol_Design-1E88E5?style=flat-square" />
+      <img src="https://img.shields.io/badge/Statistical_Analysis_Planning-3949AB?style=flat-square" />
+      <img src="https://img.shields.io/badge/Power_Analysis-5E35B1?style=flat-square" />
+      <img src="https://img.shields.io/badge/Difference--in--Differences-8E24AA?style=flat-square" />
+      <img src="https://img.shields.io/badge/Propensity_Scoring-D81B60?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Infra & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-00ACC1?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Developer Analytics & Activity
 
 <div align="center">
-  <!-- When metrics action runs, it will inject SVG here or we can just link to it if we commit it to the repo directly -->
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=yamantaka-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  </picture>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  </picture>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yamantaka-singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&theme=tokyonight&hide_border=true&background=0d1117" width="97%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🐍 Contribution Graph Simulation</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yamantaka-singh/yamantaka-singh/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yamantaka-singh/yamantaka-singh/output/github-snake.svg">
@@ -70,19 +163,6 @@
 
 ---
 
-### 🛠 Tech Stack
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Generated with ❤️ via GitHub Actions</sub>
+  <sub>Engineered with precision • Spec-first & Agent-executed • © 2026 Mrityunjay Singh</sub>
 </div>
