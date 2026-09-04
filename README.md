@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35040C,40:6E0D1F,80:96233B,100:C5A059&height=200&section=header&text=Mrityunjay%20Singh&fontSize=52&animation=fadeIn&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35040C,40:6E0D1F,80:96233B,100:C5A059&height=175&section=header&text=Mrityunjay%20Singh&fontSize=52&animation=fadeIn&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=800020&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=40&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=800020&center=true&vCenter=true&width=600&height=40&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=40&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." alt="Typing SVG" />
   </picture>
 </a>
 
