@@ -1,56 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,100:54aeff&height=200&section=header&text=Mrityunjay%20Singh&fontSize=60&animation=fadeIn&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:35040C,40:6E0D1F,80:96233B,100:C5A059&height=200&section=header&text=Mrityunjay%20Singh&fontSize=52&animation=fadeIn&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20Behavioural%20Modelling%20%7C%20Causal%20Design&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=58a6ff&center=true&vCenter=true&width=650&height=50&lines=First-named+inventor+on+filed+provisional+patent.;LLM+Distillation+%E2%80%A2+Causal+Intervention+Design.;Verification+over+generation+%E2%80%A2+Spec-first+development." alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=800020&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=E06C7E&center=true&vCenter=true&width=600&height=45&lines=Inventor+on+filed+patent+(IN202611015895).;LLM+Distillation+%E2%80%A2+Popularity+Blindfolds.;Activity+Recognition+for+Crewed+Stations.;Deterministic+Testing+%E2%80%A2+Spec-First+Systems.;Exact+Machine+Unlearning+%26+SISA+Sharding." alt="Typing SVG" />
+  </picture>
 </a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/yamantaka-singh?label=Follow&style=social)](https://github.com/yamantaka-singh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yamantakasingh)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1e1e1e?style=for-the-badge&logo=hackerrank&logoColor=58a6ff)](https://hackerrank.com/profile/25bai70030)
-[![Email](https://img.shields.io/badge/Email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:mrityunjaysinght2005@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/yamantaka-singh?label=Follow&style=for-the-badge&color=800020&labelColor=1A1013)](https://github.com/yamantaka-singh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1013?style=for-the-badge&logo=linkedin&logoColor=C5A059)](https://linkedin.com/in/yamantakasingh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-1A1013?style=for-the-badge&logo=hackerrank&logoColor=C5A059)](https://hackerrank.com/profile/25bai70030)
+[![Email](https://img.shields.io/badge/Email-1A1013?style=for-the-badge&logo=gmail&logoColor=E06C7E)](mailto:mrityunjaysinght2005@gmail.com)
 
 </div>
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 ### 👤 Executive Summary
 
 > **Second-year B.E. (Hons.) Computer Science (AI & ML) student at Chandigarh University.** 
 > First-named inventor on a filed provisional patent (`IN202611015895`) for real-time cognitive state estimation from behavioural telemetry, and lead author of the systems paper behind it. Specializes in end-to-end research engineering: LLM distillation into from-scratch regressors with popularity blindfolds, causal RCT protocol design, and deterministic verification harnesses.
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 ### 💻 Featured Systems & Engineering Projects
 
 #### 🌐 [GitGlobe — Semantic Map of the Open-Source Ecosystem](https://github.com/yamantaka-singh/GitGlobe)
 `Python` · `PostgreSQL` · `NumPy` · `TypeScript` · `WebGL` · `NVIDIA NIM`
 
-- **LLM → Model Distillation with Popularity Blindfold**: NVIDIA Nemotron 550B (via NIM) rates a stratified sample of repositories against a 6-dimension quality rubric; a gradient-boosted tree regressor written from scratch in NumPy (histogram splitting, level-wise trees, early stopping) distils those judgements to all 95,384 rows. Star and fork counts are stripped from both the teacher prompt and student features, enforced by automated tests to prevent the model from simply learning popularity.
-- **Strict Validation Bar**: Refused to ship a model that had not earned it. A dimension is stored only if its held-out RMSE beats the mean-predictor by more than sampling noise ($\text{baseline}/\sqrt{2n}$). Four of six dimensions passed at $R^2 = 0.21\text{--}0.44$.
-- **Empirical Star Survival Function**: Measured GitHub's star survival function across a 29-rung ladder (~322M repositories) instead of assuming a power law, diagnosing that in-corpus percentiles were saturated at $0.998\text{--}1.000$ and ordering nothing.
-- **High-Performance Spatial Systems**: Custom binary tile format (12 bytes/point, 3 LOD bands, 3.2 MB for 87,227 nodes); 234,640-entry CSR graph with PageRank; UMAP 3-D projection and spherical k-means clustering; WebGL renderer with GPU picking. 446 tests across 19 suites enforcing NASA Power-of-10 rules.
+- **Popularity-Blindfolded Model Distillation**: Distilled NVIDIA Nemotron 550B quality judgements to 95,384 repositories using a scratch NumPy gradient-boosted regressor; stripped star and fork counts from both teacher prompt and student features to prevent popularity bias.
+- **Empirical Power-Law Audit**: Measured GitHub's star survival function across 29 rungs (~322M repos), diagnosing and correcting in-corpus percentile saturation ($0.998\text{--}1.000$) with a held-out validation bar ($R^2 = 0.21\text{--}0.44$).
+- **Spatial Vector Engine**: Compact binary tile protocol (12 B/point, 3 LOD bands), 234k-node CSR PageRank graph, UMAP 3D projection, and WebGL GPU-picking renderer tested against NASA Power-of-10 rules.
 
 #### 🛡️ [unlearn-shield — Machine Unlearning for Tabular Fraud Models](https://github.com/yamantaka-singh/unlearn-shield)
-`Python` · `Machine Unlearning` · `SISA Architecture` · `Cryptographic Manifests` · `Determinism`
+`Python` · `Machine Unlearning` · `SISA Architecture` · `Cryptographic Lineage` · `Determinism`
 
-- **Targeted Erasure without Full Retraining**: Implements SISA (Sharded, Isolated, Sliced, Aggregated) architecture for exact and certified data unlearning in high-throughput tabular fraud detection pipelines.
-- **Signed Auditability**: Generates cryptographic erasure manifests with sha256 lineage tracking to provide mathematically verifiable guarantees for "Right-to-be-Forgotten" compliance.
-- **Determinism Harness**: Strict test harness verifying bit-level reproducibility and isolating delta updates across model slice boundaries.
+- **Targeted SISA Erasure**: Implements Sharded, Isolated, Sliced, Aggregated (SISA) architecture for certified data unlearning in tabular fraud models without full model retraining.
+- **Signed Auditability & Determinism Harness**: Generates cryptographic sha256 erasure manifests guaranteeing Right-to-be-Forgotten compliance, verified through a strict bit-level determinism harness.
 
 #### 🧠 Project S.A.G.E. — Behavioural Telemetry → Latent Cognitive State
-`Passive Telemetry` · `Causal Inference` · `Sensor Fusion` · `SaMD Protocol`
+`Passive Telemetry` · `Causal Inference` · `Sensor Fusion` · `SaMD Governance`
 
-- **Passive Interaction Telemetry**: Designed non-invasive instruments that infer latent executive-function states purely from interaction signals (time-to-click against word count, scroll velocity, cursor trajectory, keystroke flight-time deviation) with decision thresholds derived from reading-speed norms.
-- **Causal RCT Protocol ($N = 240$)**: Authored a pre-registered multicentre randomised controlled trial protocol (1:1 stratified randomisation, assessor-blinded) and statistical analysis plan: power justification, ITT/PP populations, multiplicity control, and interim analysis.
-- **Deployment & Governance**: Regulatory strategy across a dual wellness/SaMD track, threat model, interface control specifications, and CI/CD with automated SBOM generation and SLSA provenance.
+- **Latent State Estimation from Interaction**: Non-invasive instruments inferring executive-function variations from interaction telemetry (click latency, scroll speed, keystroke flight deviation) against reading-speed norms (Provisional Patent `IN202611015895`).
+- **Pre-Registered RCT ($N = 240$) & Governance**: 1:1 stratified, assessor-blinded trial protocol with formal statistical analysis plan (ITT/PP populations) and dual wellness/SaMD regulatory architecture.
 
----
+#### 🚀 [BAS — On-board Activity Recognition for Crewed Stations](https://github.com/yamantaka-singh/BAS)
+`Edge Telemetry` · `Computer Vision` · `Procedure Verification` · `ISRO SIH26174`
+
+- **Deterministic Activity Logging**: Replaces manual experiment logging on crewed stations with automated step recognition, execution ordering, and duration tracking for multi-step protocols (ISRO reference problem SIH26174).
+- **Zero-Inference & Privacy Architecture**: Enforces a strict non-clinical boundary logging only raw landmark coordinates and execution latencies—video never enters storage or downlink payloads.
+- **Pluggable Baseline Analytics**: Employs an isolated interface provider to detect protocol deviations against historical baselines without coupling to the real-time capture path.
+
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 ### 🔬 Research & Intellectual Property
 
@@ -66,7 +80,9 @@
   - **Mechanistic Scope**: Modelled how variable-ratio reinforcement schedules in recommendation engines interact with delayed prefrontal maturation to shift users toward fast associative processing.
   - **Remediation Framework**: Proposed a two-vector remedy pairing a fiduciary duty-of-care standard with deterministic pre-commitment interfaces grounded in dual-process theory.
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 ### ⚙️ Engineering Discipline & How I Build
 
@@ -78,7 +94,9 @@ engineering_discipline:
   research_rigor: "Literature synthesis with load-bearing claims verified against primary empirical sources."
 ```
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 ### 🛠️ Technical Arsenal
 
@@ -86,61 +104,72 @@ engineering_discipline:
   <tr>
     <td align="center" width="22%"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/C++-1e1e1e?style=flat-square&logo=c%2B%2B&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/TypeScript-1e1e1e?style=flat-square&logo=typescript&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/C-1e1e1e?style=flat-square&logo=c&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/SQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/GLSL-1e1e1e?style=flat-square&logo=opengl&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/HTML5%2FCSS3-1e1e1e?style=flat-square&logo=html5&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/Python-1A1013?style=flat-square&logo=python&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/C++-1A1013?style=flat-square&logo=c%2B%2B&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/TypeScript-1A1013?style=flat-square&logo=typescript&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/C-1A1013?style=flat-square&logo=c&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/SQL-1A1013?style=flat-square&logo=postgresql&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/GLSL-1A1013?style=flat-square&logo=opengl&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-1A1013?style=flat-square&logo=html5&logoColor=C5A059" />
     </td>
   </tr>
   <tr>
     <td align="center" width="22%"><b>ML & Distillation</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/NumPy-1e1e1e?style=flat-square&logo=numpy&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/scikit--learn-1e1e1e?style=flat-square&logo=scikit-learn&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/Knowledge_Distillation-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Machine_Unlearning_(SISA)-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/PageRank-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-1e1e1e?style=flat-square&logo=google-cloud&logoColor=58a6ff" />
+      <img src="https://img.shields.io/badge/PyTorch-1A1013?style=flat-square&logo=pytorch&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/NumPy-1A1013?style=flat-square&logo=numpy&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/scikit--learn-1A1013?style=flat-square&logo=scikit-learn&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Knowledge_Distillation-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Machine_Unlearning_(SISA)-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/UMAP%20%26%20HDBSCAN-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/PageRank-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Vertex_AI_Embeddings-1A1013?style=flat-square&logo=google-cloud&logoColor=E06C7E" />
     </td>
   </tr>
   <tr>
     <td align="center" width="22%"><b>LLM & Agent Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Structured_Outputs-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Rubric_Design-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Data_Leakage_Guards-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Teacher--Student_Distillation-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Agentic_CI%2FCD-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Structured_Outputs-1A1013?style=flat-square&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Rubric_Design-1A1013?style=flat-square&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Data_Leakage_Guards-1A1013?style=flat-square&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Teacher--Student_Distillation-1A1013?style=flat-square&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Agentic_CI%2FCD-1A1013?style=flat-square&logoColor=C5A059" />
     </td>
   </tr>
   <tr>
     <td align="center" width="22%"><b>Causal & Quantitative</b></td>
     <td>
-      <img src="https://img.shields.io/badge/RCT_Protocol_Design-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Statistical_Analysis_Planning-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Power_Analysis-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Difference--in--Differences-1e1e1e?style=flat-square" />
-      <img src="https://img.shields.io/badge/Propensity_Scoring-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/RCT_Protocol_Design-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Statistical_Analysis_Planning-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Power_Analysis-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Difference--in--Differences-1A1013?style=flat-square&logoColor=E06C7E" />
+      <img src="https://img.shields.io/badge/Propensity_Scoring-1A1013?style=flat-square&logoColor=E06C7E" />
     </td>
   </tr>
   <tr>
     <td align="center" width="22%"><b>Infra & Cloud</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/Google_Cloud%20(BigQuery%2C%20Vertex)-1e1e1e?style=flat-square&logo=google-cloud&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/WebGL-1e1e1e?style=flat-square&logo=webgl&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-1e1e1e?style=flat-square&logo=github&logoColor=58a6ff" />
-      <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1A1013?style=flat-square&logo=postgresql&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Google_Cloud-1A1013?style=flat-square&logo=google-cloud&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/WebGL-1A1013?style=flat-square&logo=webgl&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub_Actions-1A1013?style=flat-square&logo=github&logoColor=C5A059" />
+      <img src="https://img.shields.io/badge/SBOM%20%26%20SLSA_Provenance-1A1013?style=flat-square&logoColor=C5A059" />
     </td>
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
+
+<div align="center">
+  <h3>📊 Engineering Activity & Verified Streaks</h3>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yamantaka-singh&show_icons=true&hide_border=true&bg_color=160B0E&title_color=E06C7E&text_color=FDFBF7&icon_color=C5A059" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=yamantaka-singh&hide_border=true&background=160B0E&stroke=800020&ring=C5A059&fire=E06C7E&currStreakNum=FDFBF7&sideNums=FDFBF7&currStreakLabel=C5A059&sideLabels=C5A059&dates=E06C7E" height="165" alt="GitHub Streak" />
+</div>
+
+<br/>
 
 <div align="center">
   <h3>🐍 Dynamic Contribution Simulation</h3>
@@ -151,7 +180,9 @@ engineering_discipline:
   </picture>
 </div>
 
----
+<p align="center">
+  <img src="assets/vintage-divider.svg" alt="Vintage Divider" width="65%" />
+</p>
 
 <div align="center">
   <sub>Engineered with precision • Spec-first & Agent-executed • © 2026 Mrityunjay Singh</sub>
